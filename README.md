@@ -1,0 +1,2 @@
+# gitithon
+Hackathon of GIT
